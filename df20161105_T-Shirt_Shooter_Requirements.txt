@@ -1,0 +1,19 @@
+
+S	1	Shoot into the Stands
+S	2	Automated Loading
+D	3	Manual Driving / autonmous
+S	4	Lights/Team # (aethestics)
+S	5	Adjustable Range (of T-Shirt Shooting)
+D	6	ATV (All terrain vehicle)
+D	7	Ability to turn
+D	8	Compatable Frame (go thru doors) & handles
+D	9	How to drive (Single/multiple person crew) [Support Both]
+D	10	Pneumatic wheels
+S/D	11	Robot Battery Life
+S	12	How to aim (camera)
+D	13	Turn on Z-Axis
+S/D	14	Safety (sensors) (Sound before fire) (Warning lights)
+D	15	Controlable speeds
+D	16	Meet FRC robot limits
+
+
